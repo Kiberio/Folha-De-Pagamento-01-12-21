@@ -1,4 +1,5 @@
-﻿using System;
+﻿//Daniel Hiroshi Fugikawa - 200209
+using System;
 using System.Collections.Generic;
 using System.Globalization;
 
